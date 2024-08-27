@@ -1,6 +1,6 @@
 # Hotella
 
-Hotella is a professional hotel room booking platform. It also help to tour bookings.
+Hotella is a professional hotel room booking platform. It helps in tour bookings ans transportation.
 
 ## Preview 
 
